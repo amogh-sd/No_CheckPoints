@@ -6,6 +6,7 @@ All you have to do in this game, is reach the very top. The level 1 is completel
 
 # How to download:
 Go to https://github.com/amogh-sd/No_CheckPoints
+
 Then, click on the "Code" button, and when a dropdown comes, click on "Download ZIP"
 After the download is complete, extract all the files present in the folder(that will be the setup file, and maybe even this readME file)
 Then navigate to the setup file, and click on it. The installation process is very simple. 
