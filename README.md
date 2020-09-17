@@ -10,3 +10,6 @@ Around 70 mbs for the game. Around 20 mbs for the setup file.
 It won't take up much space on your disk(considering, lapotp's usually have 100s of GBs of space)
 
 Everyone, please do play this game....
+
+
+BTW, this is the link to my website(um.. yeahh... not exactly.. kk..k.. k.. kinda!)- https://amogh-sd.github.io/MyWebsite/
