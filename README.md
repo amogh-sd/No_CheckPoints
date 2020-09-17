@@ -1,4 +1,4 @@
-# No_CheckPoints: Rage Game
+# No CheckPoints: Rage Game
 
 This is my game. My first completely working 3d game, made on unity.
 And, i am SO excited and happy that this game is available online publicly for all, for free!!
