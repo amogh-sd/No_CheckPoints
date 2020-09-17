@@ -4,6 +4,14 @@ This is my game. My first completely working 3d game, made on unity.
 And, i am SO excited and happy that this game is available online publicly for all, for free!!
 All you have to do in this game, is reach the very top. The level 1 is complete! You will soon be able to play the level 2 and the further level!!
 
+#How to download:
+
+Click on the "Code" button, and when a dropdown comes, click on "Download ZIP"
+
+
+
+
+
 It takes up roughly 100 MBs(90 MBs)
 Around 70 mbs for the game. Around 20 mbs for the setup file.
 
