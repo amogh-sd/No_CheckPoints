@@ -22,5 +22,9 @@ It won't take up much space on your disk(considering, lapotp's usually have GBs 
 
 Everyone, please do play this game....
 
+Also, if anyone faces any difficulty while the installation of the game, or while downloading the game, please contact me freely-
+You can drop a mail at- amoghdhavalikar@gmail.com 
+AND, just so you know, i also use hangouts, so if you are comfortable with that, you may use hangouts to ask your query.
+
 
 BTW, this is the link to my website(um.. yeahh... not exactly.. kk..k.. k.. kinda!)- https://amogh-sd.github.io/MyWebsite/
