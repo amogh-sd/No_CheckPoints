@@ -11,6 +11,9 @@ Then, click on the "Code" button, and when a dropdown comes, click on "Download 
 After the download is complete, extract all the files present in the folder(that will be the setup file, and maybe even this readME file)
 Then navigate to the setup file, and click on it. The installation process is very simple. 
 
+OR
+You can directly start the download by clicking on the following link- https://github.com/amogh-sd/No_CheckPoints/archive/main.zip
+
 After the installation, you are free to play the game any time you want!
 
 
