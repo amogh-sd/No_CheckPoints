@@ -2,7 +2,7 @@
 
 This is my game. My first completely working 3d game, made on unity.
 And, i am SO excited and happy that this game is available online publicly for all, for free!!
-All you have to do in this game, is reach the very top. The level 1 is completely functional! You will soon be able to play the level 2 and the further level!!
+All you have to do in this game, is reach the very top. The level 1 is completely functional! You will soon be able to play the level 2 and the further levels*!!
 
 # How to download:
 Go to https://github.com/amogh-sd/No_CheckPoints
@@ -31,3 +31,7 @@ AND, just so you know, i also use hangouts, so if you are comfortable with that,
 
 
 BTW, this is the link to my website(um.. yeahh... not exactly.. kk..k.. k.. kinda!)- https://amogh-sd.github.io/MyWebsite/
+
+
+
+*Umm... i will make the next levels for sure... but please consider that i am a 13 year old, i go to school, participate in extra curricular activities, learn coding, participate in competitive exams, etc, etc, etc. So, i am planning to proceed with the next level of the game in vacations, because i want it to be better than this one...
