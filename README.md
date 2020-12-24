@@ -19,7 +19,7 @@ After the installation, you are free to play the game any time you want!
 
 
 It takes up roughly 100 MBs(90 MBs)
-Around 70 mbs for the game. Around 20 mbs for the setup file.
+Around 70(kinda less than that) mbs for the game. Around 20 mbs for the setup file.
 (You can delete the setup file later on)
 
 It won't take up much space on your disk(considering, lapotp's usually have GBs of space)
