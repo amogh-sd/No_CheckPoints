@@ -2,6 +2,7 @@
 
 This is my game. My first completely working 3d game, made on unity.
 And, i am SO excited and happy that this game is available online publicly for all, for free!!
+BUT PLEASE MAKE SURE, THAT YOU TRY TO RUN THIS ON A LAPTOP/COMPUTER... this game doesn't work on mobiles/consoles
 All you have to do in this game, is reach the very top. The level 1 is completely functional! You will soon be able to play the level 2 and the further levels*!!
 
 # How to download:
