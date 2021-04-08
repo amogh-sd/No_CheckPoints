@@ -25,7 +25,7 @@ You can drop a mail at- amoghdhavalikar@gmail.com
 AND, just so you know, i also use hangouts, so if you are comfortable with that, you may use hangouts to ask your query.
 
 
-BTW, this is the link to my website(um.. yeahh... not exactly.. kk..k.. k.. kinda!)- https://amogh-sd.github.io/MyWebsite/
+BTW, this is the link to my website(um.. yeahh... not exactly.. kk..k.. k.. kinda!)- https://amogh-sd.github.io/Amogh_Web/
 
 
 
